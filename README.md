@@ -1,4 +1,4 @@
 # Crescendo
 
 Simple Discord bot written in Discord.js
-\nPlays music streamed from YouTube
+Plays music streamed from YouTube
